@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/Dashboard.JPG" width="100%" alt="ClonePod Dashboard">
+  <img src="assets/Dashboard.JPG" width="100%">
 </p>
 
-<h1 align="center">ClonePod</h1>
+<h1 align="center">🐻 ClonePod</h1>
 
 <p align="center">
 The all-in-one Clone Hero request manager for <b>TikTok LIVE</b>, <b>Twitch</b>, and <b>Kick</b>.
@@ -16,128 +16,151 @@ The all-in-one Clone Hero request manager for <b>TikTok LIVE</b>, <b>Twitch</b>,
 
 ---
 
+# ⬇ Download ClonePod
+
+<p align="center">
+
+# **➡️ [DOWNLOAD THE LATEST VERSION HERE](https://github.com/itsCuttle/ClonePod/releases/latest) ⬅️**
+
+</p>
+
+**Windows Installer (.exe)**
+
+Every release automatically includes:
+
+- ✅ Latest Windows installer
+- ✅ Automatic updater
+- ✅ Future updates through GitHub Releases
+
+You never need to hunt for older versions.
+Just download from the link above.
+
+---
+
 # 🚀 What is ClonePod?
 
-ClonePod lets your viewers request Clone Hero songs directly from **TikTok**, **Twitch**, and **Kick**.
+ClonePod is an all-in-one desktop application built for Clone Hero streamers.
 
-If a requested chart isn't already in your library, ClonePod automatically searches **Enchor.us**, downloads it into your Requests folder, imports it, and adds it to your live queue.
+Instead of manually downloading requests, tracking chat, and managing queues...
 
-No more manually downloading songs during stream.
+ClonePod does everything automatically.
+
+Your viewers can request songs directly from:
+
+- 🎵 TikTok LIVE
+- 💜 Twitch
+- 🟢 Kick
+
+If a requested song isn't already in your library, ClonePod automatically:
+
+- Searches Enchor.us
+- Downloads the chart
+- Imports it into your Requests folder
+- Adds it directly into your queue
+
+No browser tabs.
+
+No manual downloads.
+
+No copy/paste.
 
 ---
 
 # ✨ Features
 
-- ✅ TikTok LIVE Integration
-- ✅ Twitch Integration
-- ✅ Kick Integration
-- ✅ Combined Cross-Platform Chat
-- ✅ Automatic Enchor.us Downloads
-- ✅ Duplicate Request Protection
-- ✅ Automatic Queue Management
-- ✅ Local & Public Song Library Search
-- ✅ Browser Overlays (OBS / Streamlabs / TikTok LIVE Studio)
-- ✅ Cloud Authentication
-- ✅ Automatic Updates
-- ✅ Real-Time Synchronization
+- 🎵 Automatic Enchor.us downloads
+- 💬 Combined TikTok, Twitch, and Kick chat
+- ☁️ Cloud browser overlays
+- 🔄 Automatic updates
+- 📋 Queue management
+- 📚 Built-in song library search
+- ⚡ Duplicate request protection
+- 🎮 OBS & Streamlabs compatible
+- 🔒 Per-user cloud authentication
+- 📡 Live synchronization
 
 ---
 
-# 🖥 Dashboard
+# 📸 Screenshots
 
-Everything you need while you're live.
+## Dashboard
 
-- Current song
-- Up Next queue
-- Live request activity
-- Queue statistics
-- Overlay controls
-- Cloud connection status
+![](assets/Dashboard.JPG)
 
-<p align="center">
-<img src="assets/Dashboard.JPG" width="100%">
-</p>
+Your complete stream command center.
+
+- Now Playing
+- Queue Preview
+- Request Activity
+- Queue Statistics
+- One-click Overlay URL
 
 ---
 
-# 🎵 Queue Management
+## Queue
 
-Organize your stream exactly how you want.
+![](assets/Queue.JPG)
 
-- Reorder requests
-- Skip songs
+Manage requests effortlessly.
+
+- Reorder songs
 - Remove requests
-- View requester information
-- Automatic duplicate protection
-
-<p align="center">
-<img src="assets/Queue.JPG" width="100%">
-</p>
+- Advance queue
+- Open chart folders
 
 ---
 
-# 📚 Library
+## Downloads
 
-Search your local Clone Hero library instantly.
+![](assets/Downloads.JPG)
 
-Need something you don't have?
+Missing songs?
 
-Search Enchor.us directly inside ClonePod and download charts with one click.
-
-Already-owned songs are detected automatically.
-
-<p align="center">
-<img src="assets/Library.JPG" width="100%">
-</p>
+ClonePod automatically downloads them from Enchor.us into your Requests folder.
 
 ---
 
-# ⬇️ Automatic Downloads
+## Library
 
-Whenever a viewer requests a missing song, ClonePod automatically downloads it.
+![](assets/Library.JPG)
 
-The Downloads page shows:
+Search thousands of Clone Hero charts instantly.
 
-- Current download progress
-- Waiting downloads
-- Ready-to-import charts
-- Requests folder status
+Already have the song?
 
-<p align="center">
-<img src="assets/Downloads.JPG" width="100%">
-</p>
+ClonePod tells you.
+
+Missing it?
+
+Download with one click.
 
 ---
 
-# 💬 Combined Chat
+## Combined Chat
 
-View every request from every platform inside one clean feed.
+![](assets/Chat.JPG)
 
-Supports:
+See messages from:
 
-- TikTok LIVE
+- TikTok
 - Twitch
 - Kick
 
-Messages are color-coded so you always know where requests came from.
-
-<p align="center">
-<img src="assets/Chat.JPG" width="100%">
-</p>
+...all inside one chat window.
 
 ---
 
-# 🎥 Browser Overlays
+## Overlays
 
-Generate cloud-powered overlays instantly.
+![](assets/Overlays.JPG)
 
-Available overlays:
+Generate browser source links for:
 
-- 🎵 Now Playing
-- 📋 Queue
-- ⚡ Request Activity
-- 💬 Combined Chat
-- ⬇️ Downloads
+- Now Playing
+- Queue
+- Request Activity
+- Downloads
+- Combined Chat
 
 Compatible with:
 
@@ -145,63 +168,46 @@ Compatible with:
 - Streamlabs
 - TikTok LIVE Studio
 
-<p align="center">
-<img src="assets/Overlays.JPG" width="100%">
-</p>
+---
+
+# ⚡ Automatic Updates
+
+ClonePod automatically checks GitHub Releases for updates.
+
+Whenever a new version is published, users will be prompted to update.
+
+No reinstalling required.
 
 ---
 
-# 📦 Installation
+# ❤️ Built for the Clone Hero Community
 
-1. Download the latest release from the **Releases** page.
-2. Run **ClonePod-by-Cuttle-Setup.exe**
-3. Install ClonePod.
-4. Launch the application.
-5. Connect your streaming platforms.
-6. Start taking requests.
+ClonePod is completely free.
 
----
+Its goal is simple:
 
-# 🔄 Automatic Updates
+Make Clone Hero streaming easier.
 
-ClonePod automatically checks GitHub Releases.
+If ClonePod helps your stream, consider:
 
-Whenever a new version is published you'll be prompted to install the update directly from inside the application.
+⭐ Starring this repository
 
-No searching for downloads.
+🐻 Sharing it with other Clone Hero streamers
 
-No reinstalling.
-
-Just click **Update**.
+💜 Reporting bugs and suggesting features
 
 ---
 
-# ❤️ Built For
+# 📥 Download
 
-ClonePod was built for the Clone Hero community.
+Latest version:
 
-Whether you're streaming to:
-
-- TikTok LIVE
-- Twitch
-- Kick
-
-ClonePod keeps your requests organized so you can focus on playing.
+➡️ **https://github.com/itsCuttle/ClonePod/releases/latest**
 
 ---
 
-# ⭐ Support the Project
+# 👨‍💻 Created by
 
-If ClonePod helps your stream, consider giving the repository a ⭐.
+**itsCuttle**
 
-It helps other Clone Hero streamers discover the project.
-
----
-
-<p align="center">
-
-Created by **itsCuttle**
-
-Made with ❤️ for the Clone Hero community.
-
-</p>
+Built with ❤️ for the Clone Hero community.
